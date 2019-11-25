@@ -10,6 +10,7 @@
 - OLED_U8G2—U8g2库驱动OLED
 - DHT11_PRINT—数字温湿度传感器DHT11
 - DHT11_OLED—温湿度OLED显示
+- SR04—超声波测距
 
 
 
