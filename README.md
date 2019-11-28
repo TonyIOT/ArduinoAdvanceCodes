@@ -12,6 +12,7 @@
 - DHT11_OLED—温湿度OLED显示
 - SR04—超声波测距
 - OLED_SR04—OLED测距显示
+- BH1750—数字光强传感器
 
 
 
