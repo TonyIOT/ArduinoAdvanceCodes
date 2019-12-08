@@ -16,6 +16,7 @@
 - OLED_BH1750—光强控制OLED背光
 - MQ-2—烟雾传感器
 - JOYSTICK—双轴按键摇杆
+- OLED_JoyStick—摇杆控制OLED移动显示
 
 
 
