@@ -19,6 +19,7 @@
 - 13.OLED_JoyStick—摇杆控制OLED移动显示
 - 14.OLED_Key—摇杆按键控制OLED
 - 15.OLED_Menu—多级菜单
+- 16.MPU6050—六轴姿态MPU6050
 
 
 
